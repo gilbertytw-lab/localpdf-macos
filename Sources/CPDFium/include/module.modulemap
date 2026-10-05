@@ -1,0 +1,4 @@
+module CPDFium {
+  header "CPDFium.h"
+  export *
+}
